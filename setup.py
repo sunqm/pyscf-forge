@@ -20,7 +20,7 @@ DESCRIPTION  = 'Staging ground for PySCF core features'
 SO_EXTENSIONS = {
 }
 DEPENDENCIES = ['pyscf', 'numpy!=2.4.*']
-VERSION = '1.1.0'
+VERSION = '1.1.1'
 
 #######################################################################
 # Unless not working, nothing below needs to be changed.

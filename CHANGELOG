@@ -1,3 +1,9 @@
+PySCF-Forge 1.1.1 (2026-03-15)
+------------------------------
+* Fixes
+  - Fix missing source files in the released wheel package
+
+
 PySCF-Forge 1.1.0 (2026-02-20)
 ------------------------------
 * New features
